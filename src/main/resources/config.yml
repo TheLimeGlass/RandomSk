@@ -1,0 +1,8 @@
+
+#If true this suppresses all "feature is incomplete/buggy" warnings on script load.
+suppress-incomplete-warning: false
+
+#Messages each registered feature on startup.
+#Also messages if some RandomSK code in your script has a expression that is null when you call it. 
+#Perhaps does something more but I don't remember. Default false. Very spammy on startup.
+debug: false

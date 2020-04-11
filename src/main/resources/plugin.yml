@@ -1,0 +1,5 @@
+name: RandomSk
+main: com.mirre.random.RandomSk
+authors: [Mirreducki, LimeGlass]
+version: 2.7.2
+depend: [Skript, ProtocolLib]
