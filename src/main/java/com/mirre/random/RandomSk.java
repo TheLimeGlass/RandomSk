@@ -42,7 +42,7 @@ public class RandomSk extends JavaPlugin implements Listener {
 
 		// Listeners and Managers
 		Bukkit.getPluginManager().registerEvents(new SleepListener(this), this);
-		new SimplePacketListener(this);
+		//new SimplePacketListener(this);
 
 		// JavaScript engine
 		File javaScriptsDirectory = new File(getDataFolder().getAbsolutePath() + "/javascripts/");

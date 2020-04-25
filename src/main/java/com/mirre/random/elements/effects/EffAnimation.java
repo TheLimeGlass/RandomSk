@@ -8,7 +8,7 @@ import com.mirre.random.lang.annonations.Pattern;
 import com.mirre.random.managers.SleepAnimationManager;
 import com.mirre.random.utils.enums.Animation;
 
-@Pattern(patterns = { "(create|show) %animation% [animation] (on|to) %players% for %players%" })
+@Pattern(patterns = {"(create|show) %animation% [animation] (on|to) %players% for %players%"})
 public class EffAnimation extends RandomEffect {
 
 	@Override
