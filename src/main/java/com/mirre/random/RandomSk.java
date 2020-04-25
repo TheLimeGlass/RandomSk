@@ -18,7 +18,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import com.comphenix.protocol.ProtocolLibrary;
 import com.comphenix.protocol.ProtocolManager;
 import com.mirre.random.lang.abstracts.Register;
-import com.mirre.random.packets.listeners.SimplePacketListener;
 import com.mirre.random.packets.listeners.SleepListener;
 import com.mirre.random.utils.ClassUtility;
 
